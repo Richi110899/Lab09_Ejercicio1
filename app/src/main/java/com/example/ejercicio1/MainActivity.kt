@@ -129,5 +129,5 @@ fun Content(
 
 @Composable
 fun ScreenInicio() {
-    Text("INICIO")
+    Text("API POSTS")
 }
